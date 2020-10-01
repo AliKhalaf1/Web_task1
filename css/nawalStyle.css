@@ -1,0 +1,184 @@
+
+#all {
+  text-align: center;
+  padding: 50px;
+}
+
+#yaan{
+  padding: 100px;
+  text-align:center ;
+}
+
+#ok {
+  text-align: center;
+  padding: 50px;
+  font-size:small;
+  
+}
+
+
+
+#pic {
+  background-image: url(images/IMG6.PNG);
+  height: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#trip{
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#btn-trip{
+    width: 300px;
+    height: 39px;
+    margin: 15px 479px;
+    padding: 5px;
+    background-color: black;
+    border: 0px;
+    color: #8db0ef;
+    font-family: cursive;
+}
+
+.one h1{
+  text-align: center;
+  margin: 50px 0px 25px;
+
+}
+
+.one p {
+  text-align: center;
+    margin: 25px;
+    font-size: 15px;
+}
+
+.div1{
+  margin: 40px 0px
+
+}
+
+.div1_img{
+  width: fit-content;
+  margin: 0px 0px 0px 150px;
+  display: inline-block;
+}
+
+.div1_text{
+  display: inline-block;
+  width: 400px;
+  margin: 0px 0px 0px 180px;
+}
+
+
+.div1_text span {
+  font-size: 115px;
+  margin-bottom: 45px;
+  display: block;
+}
+
+.div2-text {
+  display: block;
+  font-size: medium;
+ text-align: center;
+ margin: 95px;
+
+}
+
+
+.div3-text{
+  display: inline-block;
+  width: 379px;
+  margin: 0px 0px 35px 0px;
+  text-align:center;
+  direction: rtl;
+}
+
+
+.div2-img{
+  display: inline-block;
+  width: 300px;
+direction: ltr;
+height: 100px;
+}
+
+
+
+.div3-text span{ 
+  font-size: 115px;
+  margin-bottom: 45px;
+  display: inline-block;
+  }
+
+
+  .imgone{ 
+    width: fit-content;
+    margin: 0px 0px 0px 150px;
+    display: inline-block;  
+  }
+
+  
+.oneone {
+  display: inline-block;
+  width: 202px;
+  margin: 0px 0px 0px 110px;
+  text-align: right;
+  direction: rtl;
+ }
+
+
+  .oneone span{
+   font-size: 115px;
+    margin-bottom: 45px;
+    display:block;
+  }
+
+
+  .tow{
+    text-align: center;
+    margin: 50px;
+  }
+
+.imgtow{
+  margin: 0px 0px 0px 120px;
+}
+
+
+.text{
+  text-align: center;
+  margin: 75px;
+}
+
+#new1{
+  float: left;
+  width: 100%;
+}
+
+
+#non{ text-align: center;
+display: inline-block;
+margin: 0px 25px 0px 450px;
+font-size: 50px;
+
+}
+
+
+#non2{
+  margin: 0px 0px 0px 50px;
+  display: inline-block;
+  font-size: 50px;
+
+}
+
+
+.now{
+  display: inline-block;
+  margin: 25px;
+  padding: 25px;
+}
+
+
+
+
