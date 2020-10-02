@@ -92,7 +92,7 @@ margin-right: 80px;
 }
 /**************************Image-Container**************************/
 .img-container {
-  background-image: url(images/hd-backgrounds-1080p-6.jpg);
+  background-image: url(../images/hd-backgrounds-1080p-6.jpg);
   height: 110vh;
   background-repeat: no-repeat;
   background-size: cover;
